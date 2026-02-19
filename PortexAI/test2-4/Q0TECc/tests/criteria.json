@@ -1,0 +1,1 @@
+[{"id":"05f35ed9-7580-4222-8a67-678962d17777","name":"criterion 1","type":"semantic","description":"Need to follow the task","weight":100,"rationale":"","examples":[],"semanticPrompt":"The model needs to retrieve a response equal to number 4."}]
