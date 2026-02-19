@@ -1,0 +1,1 @@
+{"task_id":"KcvoTo","question":"How much is 2 + 2?","answer":"The answer is 4","reference_file":[""],"metadata":{},"submission_path":"/app/answer.txt","pass_threshold":100,"judge_models":["meta-llama/llama-3-8b-instruct","qwen/qwen3-vl-8b-instruct","openai/gpt-4o-mini"]}
