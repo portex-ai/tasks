@@ -1,0 +1,1 @@
+[{"id":"ff37dead-f320-4fd3-b3be-672c4cbeb7e0","name":"Math calc","description":"Math calc","weight":100,"rationale":"","examples":[],"semanticPrompt":"The final answer is 2","grader_type":"llm-judge"}]
