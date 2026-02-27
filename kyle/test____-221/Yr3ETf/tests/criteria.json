@@ -1,0 +1,1 @@
+[{"id":"7c24f494-955b-47a2-9ae3-d3957a483719","name":"answer","description":"","weight":100,"rationale":"","examples":[],"semanticPrompt":"it is 4","type":"semantic","grader_type":"llm-judge"}]
