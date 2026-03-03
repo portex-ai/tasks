@@ -1,0 +1,1 @@
+[{"id":"696c2ee0-bf83-4ed2-a062-9887f0558d5e","name":"Correct final answer","description":"3","weight":100,"rationale":"","examples":[],"semanticPrompt":"3","grader_type":"llm-judge"}]

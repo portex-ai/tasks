@@ -1,0 +1,1 @@
+{"task_id":""y5HqjX"","question":"1+2","answer":"3","reference_file":[""],"metadata":{"difficulty":"medium","category":"","tags":[],"environment_profile":null,"expert_time_estimate_min":null,"junior_time_estimate_min":null},"submission_path":"/app/answer.txt","pass_threshold":100,"judge_models":["meta-llama/llama-3-8b-instruct","qwen/qwen3-vl-8b-instruct","openai/gpt-4o-mini"]}
