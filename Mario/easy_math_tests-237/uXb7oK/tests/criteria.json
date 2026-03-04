@@ -1,0 +1,1 @@
+[{"id":"8d9cfe75-286a-4a16-b68e-4f8e527bbadc","name":"Corret final answer","description":"8","weight":100,"rationale":"","examples":[],"semanticPrompt":"The final answer is 8.","grader_type":"llm-judge"}]

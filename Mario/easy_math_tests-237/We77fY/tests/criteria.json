@@ -1,0 +1,1 @@
+[{"id":"73a968e9-a3f6-48c0-9130-e1d797697936","name":"Exact Match","description":"8 apples","weight":90.91,"rationale":"","examples":[],"semanticPrompt":"8 apples","grader_type":"ExactMatch"},{"id":"893c723f-02a3-4a3d-8d0d-45ac8663f143","name":"Correct final answer","description":"8","weight":9.09,"rationale":"","examples":[],"semanticPrompt":"8","grader_type":"llm-judge"}]
